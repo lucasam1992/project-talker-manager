@@ -9,7 +9,7 @@ O projeto consiste no desenvolvimento da API de um CRUD (**C**reate, **R**ead, *
   - Express.js
 
 # Rodando o Projeto Localmente
-  1° `git clone ` - Clone o repositório para sua máquina<br />
+  1° `git clone https://github.com/lucasam1992/project-talker-manager.git` - Clone o repositório para sua máquina<br />
   2° `npm install` - Instale as depedências<br />
   3° `npm start` - Execute o programa<br />
 
