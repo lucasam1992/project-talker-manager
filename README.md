@@ -1,6 +1,6 @@
 # Boas vindas ao projeto Talker Manager!
 
-O projeto consiste no desenvolvimento de uma API que realiza um CRUD (**C**reate, **R**ead, **U**pdate e **D**elete) de palestrantes. Foram desenvolvidos endpoints que irão ler e escrever em um arquivo `json`, isso utilizando o módulo `fs` do JavaScript.
+O projeto consiste no desenvolvimento de uma API que realiza um CRUD (**C**reate, **R**ead, **U**pdate e **D**elete) de palestrantes. Foram desenvolvidos endpoints que irão ler e escrever em um arquivo `json`, isso utilizando o módulo `fs` do Node.js.
 
 # Tecnologias Usadas
 
