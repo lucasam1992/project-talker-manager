@@ -10,8 +10,9 @@ O projeto consiste no desenvolvimento de uma API que realiza um CRUD (**C**reate
 
 # Rodando o Projeto Localmente
   1° `git clone https://github.com/lucasam1992/project-talker-manager.git` - Clone o repositório para sua máquina<br />
-  2° `npm install` - Instale as depedências<br />
-  3° `npm start` - Execute o programa<br />
+  2° `cd project-talker-manager` - Entre na pasta do repositório clonado<br />
+  3° `npm install` - Instale as depedências<br />
+  4° `npm start` - Execute o programa<br />
 
 # Autor
    - Lucas Machado
